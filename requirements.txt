@@ -1,0 +1,6 @@
+asyncio
+DateTime
+bleak
+matplotlib
+tk
+# matlab.engine is also necessary, please read the NOTES section for a little more detail
